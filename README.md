@@ -4,7 +4,7 @@ A simple web-based coding quiz to test your JavaScript fundamentals. This projec
 
 ## Deployed Page
 
-[Link to Deployed Page]() 
+[Code Quiz Deployed Page](https://aysegulozen.github.io/Code-quiz/index.html) 
 
 ## GitHub Repo
 
